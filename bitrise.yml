@@ -42,7 +42,7 @@ workflows:
 
 app:
   envs:
-  - DIR: "Sources"
+  - DIR: "ReSwift"
   - PRODUCT_NAME: "ReSwift"
   - PREFIX: "SLR_"
   - REPORT: "./report.json"

@@ -64,3 +64,4 @@ Docs/tmp
 Docs/output
 node_modules/
 *.lock
+*.zip

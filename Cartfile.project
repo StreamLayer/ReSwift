@@ -1,11 +1,7 @@
-ReSwift-iOS:
-  project: ReSwift.xcworkspace
+ReSwift-Package:
+  project: ReSwift.xcodeproj
   sdks:
   - iphoneos
   - iphonesimulator
-
-ReSwift-tvOS:
-  project: ReSwift.xcworkspace
-  sdks:
   - appletvos
   - appletvsimulator

@@ -1,1 +1,1 @@
-{"identifiers":["StateType","DispatchingStoreType","AnyStoreSubscriber","ReSwiftInit","StoreType","Subscription","Action","Store","Coding","StoreSubscriber"],"products":["ReSwift"],"prefix":"SLR_","fnReplace":[]}
+{"identifiers":["Subscription","Coding","StoreSubscriber","StateType","StoreType","Action","DispatchingStoreType","AnyStoreSubscriber","ReSwiftInit","Store"],"products":["ReSwift"],"prefix":"SLR_","fnReplace":[]}
